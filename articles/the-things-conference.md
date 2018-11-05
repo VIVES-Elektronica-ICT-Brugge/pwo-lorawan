@@ -1,9 +1,7 @@
 ---
-date: 2018-08-29
+date: 2018-02-1
 status: published
 summary: short summary
 ---
 
-# The Things Conference 2018
-
-
+# The Things Conference
