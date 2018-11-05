@@ -41,6 +41,16 @@ An example was given to the students that we encountered at the Things Conferenc
 
 On the other hand the devices and smart signs should be able to be managed. Adding, or changing schedules for classrooms could easily be done with this system. Updating the signs with new information should be done on an automatically timed process, preventing the need of human intervention.
 
+## Architecture
+
+To get data from sensor to user, the following architecture can be used as a base.
+
+![Sensor Architecture](./img/smart-campus-setup.png)
+
+Next to that the system should also allow the displays to be updated via the downlink.
+
+![Display Architecture](./img/smart-campus-display.png)
+
 ## More Information
 
 More information and the report of the students can be found at [projectwerk.gitbook.io](https://projectwerk.gitbook.io).
