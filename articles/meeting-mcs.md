@@ -8,7 +8,7 @@ summary: short summary
 
 MCS (Mixe Communication Solutions) is a company that specializes in all aspects of IoT. They develop, integrate and sell full IoT solutions.
 
-On several occasions they organize meetings that can be attented freely. The purpose of these meetings is to get to know the company and their products. Since we bought several of their sensors, it was the perfect time to socialize.
+On several occasions they organize meetings that can be attended freely. The purpose of these meetings is to get to know the company and their products. Since we bought several of their sensors, it was the perfect time to socialize.
 
 Meeting program:
 
