@@ -8,13 +8,18 @@ LoRaWAN is a Long Range and Low Power   technology, enabling transmission of dat
 
 <ContentOverview></ContentOverview>
 
---- 
+---
 
 ### Project sponsors:
 
 allora Factory - Ardovlam - DPTechnics - E20 - Infrax - LPWAN Solutions - Ninix-tech - Provincie West-Vlaanderen - QBMT - Sharecom - UCLL - VIVES - KU Leuven - Howest
 
---- 
+---
+### Contact
+
+[Contact us](https://www.vives.be/nl/ontdek?e=2445)
+
+---
 
 <footer style="text-align: center;">
   <img src="./img/pwo-logo.png" style="width: 200px;">
